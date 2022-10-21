@@ -1,0 +1,23 @@
+.btnContainer {
+  width: 332px;
+  height: 272px;
+  display: inline-block;
+  margin: 20px;
+}
+
+.ctrlContainer {
+  width: 240px;
+  height: 272px;
+  display: inline-block;
+  margin: 40px 20px 0 10px;
+  vertical-align: top;
+}
+
+.display {
+  width: 200px;
+  height: 50px;
+  background-color: rgb(107, 145, 99);
+  margin: 15px auto;
+  padding: 15px;
+  box-sizing: border-box;
+}

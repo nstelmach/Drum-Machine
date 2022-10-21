@@ -1,0 +1,22 @@
+.drum-pad {
+  position: relative;
+  float: left;
+  width: 100px;
+  height: 80px;
+  margin-right: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  box-sizing: border-box;
+  cursor: pointer;
+  box-shadow: 3px 3px 5px black;
+  background-color: rgb(107, 145, 99);
+  border: none;
+  font-weight: 550;
+}
+
+.drum-pad:active {
+  border: none;
+  background-color: rgb(141, 166, 135);
+  height: 77px;
+  margin-top: 13px;
+}

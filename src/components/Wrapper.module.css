@@ -1,0 +1,6 @@
+.wrapper {
+  outline: 5px solid rgb(96, 195, 134);
+  width: 660px;
+  background-color: rgb(149, 201, 169);
+  text-align: center;
+}
