@@ -1,16 +1,16 @@
 .btnContainer {
-  width: 332px;
-  height: 272px;
-  display: inline-block;
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  grid-gap: 10px;
   margin: 20px;
 }
 
 .ctrlContainer {
-  width: 240px;
-  height: 272px;
-  display: inline-block;
-  margin: 40px 20px 0 10px;
-  vertical-align: top;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 20px;
 }
 
 .display {
